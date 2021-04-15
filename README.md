@@ -5,5 +5,5 @@ Initially only Level 1 is unlocked and rest of the levels are locked which get o
 
 ∙ 4 levels that are fully customisable with keys that increases the score.
 ∙ Win conditions for each level.
-∙ Covers Basic Concepts of 2D Platformer like movement, Layers, Fliping, Animations, etc
+∙ Covers Basic Concepts of 2D Platformer like movement, Layers, Fliping, Animations, etc.
 ∙ Setting up animations of player and enemy.
